@@ -1,5 +1,5 @@
 # Langchain LLM Apps - Learning Journey
-
+![1_ollama_langchain_app](1_ollama_langchain_app.png)
 Welcome to my GitHub repository, where I document my learning journey with the [Langchain framework](https://langchain.com/) and Krish Naik Sir Course. This repo will contain my experiments, projects, and notes as I explore and understand how to build LLM-powered applications using Langchain.
 
 ## 🛠️ Project Overview
@@ -11,26 +11,25 @@ This repository will include:
 
 ## 🔍 What is Langchain?
 
-Langchain is a framework designed to make it easier to build applications powered by large language models (LLMs). It helps in managing the complexities of LLMs, such as chaining calls to language models, managing interactions, and deploying them in various environments.
+Langchain is a framework designed to make it easier to build applications powered by large language models (LLMs). It helps in managing the complexities of LLMs, such as chaining calls to language models, managing interactions, and deploying them in various environments. Langchain Framework provides services like-
+- `LangSmith` : monitoring of llm apps.
+- `LangServe`
+- `LangGraph`
+- `Agents`
+- `Retrival` etc.
 
 ## 📁 Repository Structure
 
-- `notebooks/`: Jupyter notebooks that show step-by-step experiments with Langchain.
 - `apps/`: Applications built using Langchain, covering different use cases.
-- `docs/`: Resources and documentation to explain concepts, tutorials, and challenges faced during learning.
-  
+
 ## 🚀 Projects and Applications
 
-### 1. **[Conversational Q&A Chatbot Using Ollama(LLaMA3.1 8B parameter model)]**
+### 1. **Conversational Q&A Chatbot Using Ollama(LLaMA3.1 8B parameter model)**
+[1_ollama_langchain_app](1_ollama_langchain_app.png)
+   - Implemented simple llama3.2 chatbot using langchain framework.
+   - learnt to use models from ollama and monitored it from `Langsmith`.
+   - [ollama app1](visit)
 
-   - Overview of the project.
-   - Key learnings and insights.
-   - [Link to code]()
-
-### 2. **[Project 2 Name]**
-   - Overview of the project.
-   - Key learnings and insights.
-   - [Link to code]()
 
 *More projects to come as I progress.*
 
