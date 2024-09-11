@@ -1,5 +1,5 @@
 # Langchain LLM Apps - Learning Journey
-![1_ollama_langchain_app](1_ollama_langchain_app.png)
+![1_ollama_langchain_app](ollama app1/1_ollama_langchain_app.png)
 Welcome to my GitHub repository, where I document my learning journey with the [Langchain framework](https://langchain.com/) and Krish Naik Sir Course. This repo will contain my experiments, projects, and notes as I explore and understand how to build LLM-powered applications using Langchain.
 
 ## 🛠️ Project Overview
@@ -25,10 +25,10 @@ Langchain is a framework designed to make it easier to build applications powere
 ## 🚀 Projects and Applications
 
 ### 1. **Conversational Q&A Chatbot Using Ollama(LLaMA3.1 8B parameter model)**
-[1_ollama_langchain_app](1_ollama_langchain_app.png)
+[1_ollama_langchain_app](ollama app1/1_ollama_langchain_app.png)
    - Implemented simple llama3.2 chatbot using langchain framework.
    - learnt to use models from ollama and monitored it from `Langsmith`.
-   - [ollama app1](visit)
+   - [ollama app1/](visit)
 
 
 *More projects to come as I progress.*
