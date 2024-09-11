@@ -27,11 +27,20 @@ Langchain is a framework designed to make it easier to build applications powere
 ### 1. Conversational Q&A Chatbot Using Ollama (LLaMA3.1 8B Parameter Model)
 ![Ollama Langchain App](ollama%20app1/1_ollama_langchain_app.png)
 
-Implemented a simple LLaMA3.1 chatbot using the Langchain framework. Learned how to use models from Ollama and monitored it through Langsmith.
+- Implemented a simple LLaMA3.1 chatbot using the Langchain framework. 
+- Learned how to use models from Ollama and monitored it through Langsmith.
 
 - [Project Code](ollama%20app1/1_ollama_langchain_app.py)
 - Folder: `ollama app1/`
 
+### 2. Student Support Q&A Chatbot (using context-based approach with LLaMA 3.1)
+![Ollama Langchain App](ollama%20app2/Student%20Support%20Q&A%20Chatbot.png)
+
+- Implemented a context-based LLaMA3.1 chatbot using the Langchain framework used context of some information for my university and college.
+- Learned to use models by context based approach from Ollama and monitored it through Langsmith.
+
+- [Project Code](ollama%20app1/2_ContextBased_ollama_app.py)
+- Folder: `ollama app2/`
 
 *More projects to come as I progress.*
 
