@@ -1,5 +1,5 @@
 # Langchain LLM Apps - Learning Journey
-![](img header.png)
+![Header Image](img%20header.png)
 Welcome to my GitHub repository, where I document my learning journey with the [Langchain framework](https://langchain.com/) and Krish Naik Sir Course. This repo will contain my experiments, projects, and notes as I explore and understand how to build LLM-powered applications using Langchain.
 
 ## 🛠️ Project Overview
