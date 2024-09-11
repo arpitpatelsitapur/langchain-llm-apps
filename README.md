@@ -46,7 +46,7 @@ Langchain is a framework designed to make it easier to build applications powere
 
 ### 3. Simple Chatbot Deployed using FastAPI and LangServe
 <div align="center">
-  <img src="ollama%20app3/ollama%20fastapi.png" alt="Ollama FastAPI Deployment" width="750"/>
+  <img src="ollama%20app3/ollama%20fastapi.png" alt="Ollama FastAPI Deployment" width="550"/>
 </div>
 
 - Implemented the LLaMA3.1 chatbot and deployed it with `FastAPI` in Production-grade Langchain server `LangServe`.
