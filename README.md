@@ -34,7 +34,9 @@ Langchain is a framework designed to make it easier to build applications powere
 - Folder: `ollama app1/`
 
 ### 2. Student Support Q&A Chatbot (using context-based approach with LLaMA 3.1)
-<img src="ollama%20app2/Student%20Support%20Q&A%20Chatbot.png" alt="Ollama Langchain App" width="300"/>
+<div align="center">
+  <img src="ollama%20app2/Student%20Support%20Q&A%20Chatbot.png" alt="Ollama Langchain App" width="450"/>
+</div>
 
 - Implemented a context-based LLaMA3.1 chatbot using the Langchain framework used context of some information for my university and college.
 - Learned to use models by context based approach from Ollama and monitored it through Langsmith.
