@@ -1,5 +1,5 @@
 # Langchain LLM Apps - Learning Journey
-![1_ollama_langchain_app](ollama app1/1_ollama_langchain_app.png)
+!(img header.png)
 Welcome to my GitHub repository, where I document my learning journey with the [Langchain framework](https://langchain.com/) and Krish Naik Sir Course. This repo will contain my experiments, projects, and notes as I explore and understand how to build LLM-powered applications using Langchain.
 
 ## 🛠️ Project Overview
